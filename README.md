@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Motee</h1>
 <h3 align="center">Experienced Data Analyst/ Data Scientist From Kenya.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML workflows and Ai**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
