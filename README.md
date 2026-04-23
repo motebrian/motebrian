@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Brian Motee</h1>
-<h3 align="center">Data Analyst & Customer Insights Specialist based in Nairobi, Kenya 🇰🇪</h3>
+<h3 align="center">Data Scientist based in Nairobi, Kenya 🇰🇪</h3>
 
 <p align="center">
 I turn messy, multi-source data — surveys, admin records, and interviews — into clear answers that guide product, programme, and policy decisions. I work across the full analytics stack: survey design, SQL pipelines, Python/R modelling, dashboards, and executive reporting. My focus is African markets and public-interest data in health, gender, and financial inclusion.
