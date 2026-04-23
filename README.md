@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm Brian Motee</h1>
-<h3 align="center">Data Scientist & Analyst based in Kenya 🇰🇪</h3>
-
-<p align="center">
-I turn messy data into clear answers. I work across the full analytics stack —
-from SQL and data wrangling to dashboards, statistical analysis, and ML —
-with a particular interest in public health, development, and social-impact data.
-</p>
-
----
-
-### 🔭 What I'm working on
-- Building end-to-end ML workflows (data → model → deployment)
-- Deepening my skills in applied AI and forecasting
 
 <h1 align="center">Hi 👋, I'm Brian Motee</h1>
 <h3 align="center">Data Analyst & Customer Insights Specialist based in Nairobi, Kenya 🇰🇪</h3>
