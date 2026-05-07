@@ -22,7 +22,7 @@ I turn messy, multi-source data — surveys, admin records, and interviews — i
 
 | Project | Description | Tools |
 |---|---|---|
-| **[HIV Infections & ART Coverage Forecasting](LINK)** | Time-series forecasting of new HIV infections and treatment coverage in Kenya against peer countries, using UNAIDS data. | Python, Prophet, Seaborn |
+| **[HIV Infections & ART Coverage Forecasting]([LINK](https://github.com/motebrian/Forecasting-HIV-new-infections-and-ART-coverage-in-Kenya-vs.-peer-countries.git))** | Time-series forecasting of new HIV infections and treatment coverage in Kenya against peer countries, using UNAIDS data. | Python, Prophet, Seaborn |
 | **[Chicago Building Permits Analysis](LINK)** | Comparing permitting activity across 77 community areas between 2021 and 2025 to surface neighbourhood-level shifts. | Python, Pandas, Seaborn |
 | **[Customer Segmentation & Cohort Analysis](LINK)** | Behavioural segmentation and retention cohorts on market research data to inform product decisions. | R, Python, Tableau |
 | **[Survey Dashboard in Power BI](LINK)** | Interactive Power BI dashboard tracking programme KPIs from a PostgreSQL partnerships database. | Power BI, PostgreSQL, SQL |
