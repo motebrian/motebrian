@@ -9,7 +9,7 @@ I turn messy, multi-source data — surveys, admin records, and interviews — i
 ---
 
 ### 🔭 What I'm working on
-- Forecasting **HIV new infections and ART coverage** in Kenya vs. peer countries using UNAIDS data
+- MSME Lending Portfolio and Valuing a Big Tech Company with an abnormal CAPEX
 - Building end-to-end **ML workflows** — data → model → deployment
 - Publishing hands-on **data analytics tutorials** on [YouTube](https://www.youtube.com/@MotetheAnalyst)
 
